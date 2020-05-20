@@ -1,1 +1,1 @@
-for i in range(1,21): print ("Hello World..."+str(i))
+for i in range(1,101): print ("Hello World..."+str(i))
